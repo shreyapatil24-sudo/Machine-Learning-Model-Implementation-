@@ -27,3 +27,6 @@ During the model implementation phase, I understood how to train the model using
 Working with Jupyter Notebook within Visual Studio Code made the learning process more interactive and structured. It allowed me to write code in small sections, execute it step by step, and immediately view the outputs. This helped me debug errors efficiently and understand each concept more clearly. I also created visualizations such as graphs and charts to better analyze the data and model performance.
 
 Through this project, I significantly improved my coding, analytical thinking, and problem-solving skills. It also enhanced my ability to work independently and explore new technologies. Overall, this project gave me a strong foundation in machine learning and boosted my confidence in implementing models. The knowledge and experience gained from this project will be highly beneficial for my future studies and career in the field of data science and artificial intelligence.
+
+
+# Output:[task4internshipcode.docx](https://github.com/user-attachments/files/26249668/task4internshipcode.docx)
